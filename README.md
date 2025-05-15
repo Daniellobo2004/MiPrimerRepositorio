@@ -9,3 +9,5 @@ un commit mas desde github
 una actualizacion
 
 cambios desde developer01
+
+cambios desde editor 
